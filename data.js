@@ -12,7 +12,7 @@ export const tweetsData = [
         uuid: '4b161eee-c0f5-4545-9c4b-8562944223ee',
     },    
     {
-        handle: `@Elon ✅`,
+        handle: `@CringElon ✅`,
         profilePic: `images/musk.png`,
         likes: 6500,
         retweets: 234,
@@ -34,21 +34,21 @@ export const tweetsData = [
         uuid: '3c23454ee-c0f5-9g9g-9c4b-77835tgs2',
     },
         {
-        handle: `@NoobCoder12`,
+        handle: `@Yomerito`,
         profilePic: `images/flower.png`,
         likes: 10,
         retweets: 3,
-        tweetText: `Are you a coder if you only know HTML?`,
+        tweetText: `I love my GF and would never try to get her mad. Ever`,
         replies: [
             {
-                handle: `@StackOverflower ☣️`,
+                handle: `@Aimeemg ☣️`,
                 profilePic: `images/overflow.png`,
-                tweetText: `No. Obviosuly not. Go get a job in McDonald's.`,
+                tweetText: `No. Obviosuly not. I'll fight u rn.`,
             },
             {
-                handle: `@YummyCoder64`,
+                handle: `@FakeAimeemg`,
                 profilePic: `images/love.png`,
-                tweetText: `You are wonderful just as you are! ❤️`,
+                tweetText: `Das true ❤️`,
             },
         ],
         isLiked: false,
